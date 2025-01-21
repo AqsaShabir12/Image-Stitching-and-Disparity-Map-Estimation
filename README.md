@@ -1,4 +1,4 @@
-#Image Stitching and Disparity Map Estimation**
+**Image Stitching and Disparity Map Estimation**
 
 This folder contains the implementation of two tasks as part of the CS554 Fall 2024 Homework. The project includes code for stitching images and calculating disparity maps for stereo image pairs.
 
